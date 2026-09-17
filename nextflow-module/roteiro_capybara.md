@@ -123,18 +123,11 @@ Acesse o cluster:
 ssh usuario@marvin.cnpem.br
 ```
 
-Depois, entre no nó de execução indicado pelo instrutor:
+Depois, entre no nó de execução indicado nas mensagens acima:
 
 ```bash
 ssh dgpuXX
 ```
-
-> **Atenção — distribuição dos grupos**
->
-> A distribuição dos grupos da atividade **Capivara** entre `dgpu01`, `dgpu02` e `dgpu03` será informada pelo instrutor antes da execução.
->
-> Como `/scratch` é um disco local, o grupo deve permanecer no **mesmo nó** durante toda a atividade.
-
 Confirme o nó:
 
 ```bash
