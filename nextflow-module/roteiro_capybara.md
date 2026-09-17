@@ -795,7 +795,3 @@ Antes de considerar a atividade concluída, confira:
 | JSON de referência | `/scratch/nf-work/runs/ampliseq/Capybara/grupoX/Capybara_grupoX.json` |
 
 ---
-
-### Ponto a definir antes da aula
-
-Apenas a **distribuição dos grupos da Capivara entre `dgpu01`, `dgpu02` e `dgpu03`** ainda precisa ser inserida neste roteiro. O restante da estrutura já está preparado para uso individual via `$USER`.
